@@ -31,7 +31,7 @@ This is a simple Python GUI application for encrypting and decrypting files usin
 1. Run the script:
 
     ```bash
-    python file_encryptor.py
+    python encfile.py
     ```
 
 2. The application window will appear.
