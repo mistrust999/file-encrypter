@@ -1,5 +1,5 @@
 # file-encrypter
-Small python based file encryption script that garuntees only the intended reciever with the key you made/generated can have your private files
+Small python based file encryption script that guarantees only the intended reciever with the key you made/generated can have your private files
 
 ## ChatGPT Write-up
 This is a simple Python GUI application for encrypting and decrypting files using AES-256 encryption. The application uses the `tkinter` library for the GUI and the `cryptography` library for encryption and decryption. The encryption key is automatically copied to the clipboard when generated.
