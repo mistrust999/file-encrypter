@@ -1,0 +1,4 @@
+pyperclip
+secrets
+tkinter
+cryptography
